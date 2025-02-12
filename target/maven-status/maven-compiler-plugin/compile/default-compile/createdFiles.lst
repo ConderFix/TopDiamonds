@@ -1,0 +1,8 @@
+ru\quizie\topdiamonds\command\TestCommand.class
+ru\quizie\topdiamonds\command\list\AddItemComamnd.class
+ru\quizie\topdiamonds\command\SubCommands.class
+ru\quizie\topdiamonds\top\TopPlayer.class
+ru\quizie\topdiamonds\top\TopManager.class
+ru\quizie\topdiamonds\TopDiamonds.class
+ru\quizie\topdiamonds\command\SubCommand.class
+ru\quizie\topdiamonds\command\list\TopCommand.class

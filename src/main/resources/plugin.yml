@@ -1,0 +1,6 @@
+name: TopDiamonds
+version: '${project.version}'
+main: ru.quizie.topdiamonds.TopDiamonds
+api-version: '1.16'
+commands:
+  test:
